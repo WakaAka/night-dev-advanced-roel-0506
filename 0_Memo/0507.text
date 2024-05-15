@@ -1,0 +1,22 @@
+*******
+0507
+*******
+
+Create a program that will calculate the due fare gicen the age of age of the person and the distance traveled.
+
+Base fare ise 8 for the first 4 kilometers.
+For each succeeding kilometer,add 1.
+A;;ly 20% discount to passengers 60 y.o and above.
+_________________________
+年齢と移動距離から料金を計算するプログラムを作成する。
+
+最初の4キロメートルの基本運賃を8とする。
+その後1キロメートルごとに1ずつ加算する。
+60歳以上の乗客は20％割引。
+_________________________
+
+*******
+0508
+*******
+Construter
+Inheritance
