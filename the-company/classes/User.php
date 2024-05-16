@@ -148,7 +148,7 @@
 
             if($this->conn->query($sql)) {
                 $this->logout();
-        
+                #
             } else {
                 die('Error in deleting the account: ' . $this->conn->error);
             }
